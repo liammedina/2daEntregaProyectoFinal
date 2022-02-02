@@ -14,7 +14,7 @@ body{
 .main{
     background-image: linear-gradient(to bottom, #535152, #4b4a4b, #434243, #3b3b3c, #343435, #2e2e2f, #272829, #212223, #1b1c1d, #141616, #0c0f0e, #020403);
     width: 100vw;
-    margin-top: 25vh;
+    margin-top: 12vh;
 }
 .navBarResponsive{
     display: none;
